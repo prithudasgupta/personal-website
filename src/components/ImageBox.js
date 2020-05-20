@@ -6,7 +6,7 @@ export default class ImageBox extends Component {
         return (
             <div className="portfolio-thumb">
                 <img src={require("../img/" + this.props.imgurl)} alt=''/>
-                <p> <b>{this.props.topic}</b> {this.props.caption}</p>
+                <p className="portfolio-summary"> <b>{this.props.topic}</b> {this.props.caption}</p>
             </div>
         )
     }
