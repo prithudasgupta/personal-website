@@ -1,9 +1,10 @@
 import React, { Component } from 'react'
+import '../App.css';
 
 export default class School extends Component {
     render() {
         return (
-            <div>
+            <div className="School">
                 <h1>School</h1>
                 <p> I am a senior at Brown University studying Computer Science and Applied Mathematics. 
                     My relevant CS coursework with their updated websites linked are listed here:
@@ -19,6 +20,10 @@ export default class School extends Component {
                         <li><a href="http://cs.brown.edu/courses/csci1430/">Computer Vision</a>: Spring 2020</li>
                         <li><a href="http://cs.brown.edu/courses/csci1460/">Computational Linguistics</a>: Spring 2020</li>
                     </ul>
+                    Student clubs that  I am apart of include Hack@Brown and 180 Degrees Consulting. 
+                    I am lucky enough to have been given the opportunity to TA for classes that have very much shaped my computer 
+                    science education, as I have been a teaching assistant for Introduction to Computer Systems and both a
+                    teaching assistant and head teaching assistant for Introduction to Software Engineering. 
                 </p>                  
             </div>
         )
