@@ -9,9 +9,7 @@
   width: 100%; 
   z-index: 999;
   margin:0;
-  text-align: center;
   background-color: #39CCCC;
-  display: inline-block;
 }
 
 .Body {
@@ -25,7 +23,6 @@
   background-color: #01FF70;
   display: inline-block;
   width: 100%; 
-  text-align: center;
 }
 
 .School {
@@ -61,7 +58,103 @@
   display: inline-block;
   background-position-x: initial;
   background-position-y: initial;
-  /* top: 10px; */
+}
+
+a.class_links:link, a.class_links:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center; 
+  text-decoration: none;
+  display: inline-block;
+}
+
+a.class_links:hover, a.class_links:active {
+  background-color: rgb(255, 115, 0);
+}
+
+/* The actual timeline (the vertical ruler) */
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+/* The actual timeline (the vertical ruler) */
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: white;
+  top: 0;
+  bottom: 0;
+  left: 25%;
+  margin-left: -3px;
+}
+
+/* Container around content */
+.timeline-container {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+
+/* The circles on the timeline */
+.timeline-container::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: -17px;
+  background-color: white;
+  border: 4px solid #FF9F55;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+
+/* Place the container to the right */
+.timeline-right {
+  left: 25%;
+}
+
+/* Add arrows to the right container (pointing left) */
+.timeline-right::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  left: 30px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent white transparent transparent;
+}
+
+/* Fix the circle for containers on the right side */
+.timeline-right::after {
+  left: -16px;
+}
+
+/* The actual content */
+.timeline-content {
+  padding: 20px 30px;
+  background-color: white;
+  position: relative;
+  border-radius: 6px;
+}
+
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin: 0 0 15px 0;
 }
 
 img {
@@ -76,7 +169,12 @@ img {
 }
 
 p {
-  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p.school-summary {
+  width: 50%
 }
 
 html, body {
@@ -84,5 +182,6 @@ html, body {
   margin: 0;
   padding: 0;
   background-color: #39CCCC;
+  text-align: center;
 }
 
