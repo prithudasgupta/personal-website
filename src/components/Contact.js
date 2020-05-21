@@ -5,8 +5,15 @@ export default class Contact extends Component {
         return (
             <div className="Contact">
                 <h1>Connect</h1>
-                <p>Thank you so much for visiting my website! 
-                    Feel free to shoot me an email at <a href="mailto:prithu_dasgupta@brown.edu">prithu_dasgupta@brown.edu</a>, add me on <a href="https://www.linkedin.com/in/prithu-dasgupta-0378ba150/">LinkedIn</a>, or check out my <a href="https://github.com/prithudasgupta">GitHub</a> . </p>
+                <p>Thank you so much for visiting my website! </p>
+                <div class="contact-row">
+                <a href="mailto:prithu_dasgupta@brown.edu" class="contact"><img src={require("../img/contact/gmail.png")}/></a>
+                <a href="https://www.linkedin.com/in/prithu-dasgupta-0378ba150/" class="contact"><img src={require("../img/contact/linkedin.png")}/></a>
+                <a href="https://github.com/prithudasgupta" class="contact"><img src={require("../img/contact/github.png")}/></a>
+                {/* <a href="mailto:prithu_dasgupta@brown.edu" class="contact">a</a>
+                <a href="https://www.linkedin.com/in/prithu-dasgupta-0378ba150/" class="contact">b</a>
+                <a href="https://github.com/prithudasgupta" class="contact">c</a> */}
+                </div>
             </div>
         )
     }

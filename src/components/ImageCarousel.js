@@ -65,20 +65,9 @@ const CarouselArrow = ({ direction, clickFunction, glyph }) => (
 );
 
 const ImageSlide = ({ url }) => {
-    // // let fullPath = {"../img/" + url};
-    // // console.log(fullPath)
-    // const styles = {
-    //     // backgroundImage: `url(${url})`,
-    //     backgroundImage: `url("../img/projects/light.png")`,
-    //     backgroundSize: 'cover',
-    //     backgroundPosition: 'center'
-    // };
 
     return (
         <img src={require("../img/" + url)} className="slide"/>
     )
 
-    // return (
-    //     <div style={styles}></div>
-    // );
 }

@@ -173,7 +173,6 @@ a.class_links:hover, a.class_links:active {
   left: 25%;
 }
 
-
 ul {
   list-style: none;
 }
@@ -195,6 +194,27 @@ img {
 img.slide {
   width: 50%;
   height: auto;
+}
+
+img.contact {
+  display: inline-block;
+}
+
+.contact-row {
+  text-align: center;
+  margin: 0 auto;
+}
+
+a.contact:link, a.contact:visited {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 10%;
+}
+
+a.contact:hover, a.contact:active {
+  background-color: white;
 }
 
 p {
