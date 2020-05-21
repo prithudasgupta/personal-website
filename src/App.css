@@ -9,36 +9,37 @@
   width: 100%; 
   z-index: 999;
   margin:0;
-  background-color: #39CCCC;
+  background-color: #92a8d1;
+  max-height: 100px;
 }
 
 .Body {
-  margin-top: 75px;
+  margin-top: 50px;
   position:absolute;
-  top: 75px;
+  top: 50px;
   overflow: hidden;
 }
 
 .Professional {
-  background-color: #01FF70;
+  background-color: #f0efef;
   display: inline-block;
   width: 100%; 
 }
 
 .School {
-  background-color: yellow;
+  background-color:  #b1cbbb;
   display: inline-block;
   width: 100%; 
 }
 
 .Projects {
-  background-color: green;
+  background-color: #f0efef;
   display: inline-block;
   width: 100%; 
 }
 
 .Personal {
-  background-color: yellow;
+  background-color: #b1cbbb;
   display: inline-block;
   width: 100%; 
 }
@@ -58,7 +59,7 @@
   width: 45%;
   position: relative;
   margin: 20px;
-  background-color: greenyellow;
+  background-color: #c2d4dd;
   display: inline-block;
   background-position-x: initial;
   background-position-y: initial;
@@ -230,11 +231,16 @@ p.portfolio-summary {
   width: 80%
 }
 
+h1 {
+  font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+  font-size: 300%;
+}
+
 html, body {
   height: 100%;
   margin: 0;
   padding: 0;
-  background-color: #39CCCC;
+  background-color: #92a8d1;
   text-align: center;
 }
 

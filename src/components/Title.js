@@ -6,7 +6,6 @@ export default class Title extends Component {
         return (
             <div className="Title">
                 <h1>Prithu Dasgupta</h1>
-                <h4>Welcome to my portfolio website!</h4>
             </div>
         )
     }
