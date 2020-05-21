@@ -62,6 +62,8 @@
   display: inline-block;
   background-position-x: initial;
   background-position-y: initial;
+  margin-right: 2.5%;
+  margin-left: 2.5%;
 }
 
 a.class_links:link, a.class_links:visited {
