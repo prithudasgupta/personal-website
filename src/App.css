@@ -154,6 +154,25 @@ a.class_links:hover, a.class_links:active {
   border-radius: 6px;
 }
 
+.carousel {
+  display: flex;
+  align-items: center;
+}
+
+.slide-arrow {
+  color: white;
+  font-size: 4rem;
+  position: absolute;
+}
+
+.slide-arrow.right {
+  right: 25%;
+}
+
+.slide-arrow.left {
+  left: 25%;
+}
+
 
 ul {
   list-style: none;
@@ -168,9 +187,14 @@ img {
   margin: 0 auto;
   max-height: 100%;
   max-width: 100%;
-  object-fit: contain;
+  
   height: auto;
   padding: 10px;
+}
+
+img.slide {
+  width: 50%;
+  height: auto;
 }
 
 p {
