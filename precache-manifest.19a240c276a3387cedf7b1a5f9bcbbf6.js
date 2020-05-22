@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8aba3dcfc7f037f2f48f5e0d7a2f703",
+    "revision": "5f3b79cfeee8543e261d9dc909c9fdad",
     "url": "/personal-website/index.html"
   },
   {
-    "revision": "61b816b4d079ff1bb00e",
+    "revision": "cd9319e8621444a44226",
     "url": "/personal-website/static/css/main.c2194217.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personal-website/static/js/2.2132c947.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "61b816b4d079ff1bb00e",
-    "url": "/personal-website/static/js/main.c353c274.chunk.js"
+    "revision": "cd9319e8621444a44226",
+    "url": "/personal-website/static/js/main.6c45db2b.chunk.js"
   },
   {
     "revision": "f50455ddb69baf523794",
@@ -104,7 +104,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personal-website/static/media/vienna.0223e0de.jpg"
   },
   {
-    "revision": "25ae99a893ca97c05173c71f8265da8b",
-    "url": "/personal-website/static/media/vistaprint.25ae99a8.png"
+    "revision": "1687033489740a03ce49b1463aa60399",
+    "url": "/personal-website/static/media/vistaprint.16870334.png"
   }
 ]);
