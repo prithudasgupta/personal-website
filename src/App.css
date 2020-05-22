@@ -68,7 +68,7 @@
 }
 
 a.class_links:link, a.class_links:visited {
-  background-color: #f44336;
+  background-color: #228B22;
   color: white;
   padding: 14px 25px;
   text-align: center; 
@@ -77,7 +77,7 @@ a.class_links:link, a.class_links:visited {
 }
 
 a.class_links:hover, a.class_links:active {
-  background-color: rgb(255, 115, 0);
+  background-color: #8FBC8F;
 }
 
 /* The actual timeline (the vertical ruler) */
@@ -116,7 +116,7 @@ a.class_links:hover, a.class_links:active {
   height: 25px;
   right: -17px;
   background-color: white;
-  border: 4px solid #FF9F55;
+  border: 4px solid #228B22;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
@@ -221,14 +221,20 @@ a.contact:hover, a.contact:active {
 p {
   margin-left: auto;
   margin-right: auto;
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
 }
 
-p.school-summary {
-  width: 50%
+h4.block-summary {
+  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", sans-serif;
 }
 
 p.portfolio-summary {
-  width: 80%
+  width: 80%;
+  font-family: Consolas, monaco, monospace;
+}
+
+p.slide-caption {
+  font-family: Consolas, monaco, monospace;
 }
 
 h1 {

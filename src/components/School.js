@@ -6,11 +6,8 @@ export default class School extends Component {
         return (
             <div className="School">
                 <h1>School</h1>
-                <p class="school-summary"> I am a rising senior at Brown University studying Computer Science and Applied Mathematics.  
-                    I also have worked as a teaching assistant for Introduction to Computer Systems,
-                    as both a teaching assistant and head teaching assistant for Introduction to Software Engineering, 
-                    and an as organizing lead for Hack@Brown on their sponsorship team. 
-                    My relevant CS coursework with their webpages linked are listed below:</p>
+                <h4 class="block-summary"> I am a rising senior at Brown University studying Computer Science and Applied Mathematics, 
+                    and my relevant CS coursework with their webpages linked are listed below: </h4>
                     <div class="timeline">
                     <div class="timeline-container timeline-right">
                         <div class="timeline-content">

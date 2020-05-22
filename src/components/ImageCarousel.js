@@ -50,7 +50,7 @@ export default class ImageCarousel extends Component {
                 clickFunction={ this.nextSlide }
                 glyph="&#707;" />
             </div>
-            <p>{ this.props.captions[this.state.currentImageIndex] } </p>
+            <p class="slide-caption">{ this.props.captions[this.state.currentImageIndex] } </p>
             </div>
         )
     }

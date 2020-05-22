@@ -6,7 +6,7 @@ export default class Projects extends Component {
         return (
             <div className="Projects">
                 <h1>Projects</h1>
-                <p>Be sure to check out some of my past programming projects on GitHub.</p>
+                <h4 class="block-summary">Be sure to check out some of my past programming projects on GitHub.</h4>
 
                 <div className="portfolio-row">
                 <ImageBox topic="Tanks" caption="Inspired by Wii Tanks, an online game written in Java and JavaScript where a user controlled tank must destroy AI enemy tanks." imgurl="projects/tanks.png"></ImageBox>

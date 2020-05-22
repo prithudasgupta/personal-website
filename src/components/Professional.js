@@ -7,7 +7,7 @@ export default class Professional extends Component {
         return (
             <div className="Professional">
                 <h1>Professional</h1>
-                <p> I have always been an aspiring software engineer and here are some of the amazing experiences I have had in the field! </p>
+                <h4 class="block-summary"> I have always been an aspiring software engineer and here are some of the amazing experiences I have had in the field! </h4>
                 <div className="portfolio-row">
                 <ImageBox topic="Facebook: Summer 2020" caption="Because of the COVID-19 Pandemic, my software engineering internship at Facebook for the summer of 2020, which would 
                     have been hosted in Menlo Park, is now remote." imgurl="professional/facebook.png"></ImageBox>
