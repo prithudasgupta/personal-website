@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "637add770e457beb3a6a71d31c756b8e",
+    "revision": "288dd77e2affe8477d209656df0b1c35",
     "url": "/personal-website/index.html"
   },
   {
-    "revision": "af528db499ec063c1fc3",
-    "url": "/personal-website/static/css/main.af2596fc.chunk.css"
+    "revision": "f91b4573d9faf150f3d1",
+    "url": "/personal-website/static/css/main.442568c3.chunk.css"
   },
   {
     "revision": "a9016e7e38f914ee5600",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personal-website/static/js/2.be06221c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "af528db499ec063c1fc3",
-    "url": "/personal-website/static/js/main.01b4ccb2.chunk.js"
+    "revision": "f91b4573d9faf150f3d1",
+    "url": "/personal-website/static/js/main.d98db6ec.chunk.js"
   },
   {
     "revision": "f50455ddb69baf523794",
@@ -64,12 +64,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personal-website/static/media/lake-lucerne.73c79826.jpg"
   },
   {
-    "revision": "64f86a63d29fc316f60e4319a6549aab",
-    "url": "/personal-website/static/media/license.64f86a63.png"
+    "revision": "bc8b292b008afa98ca4c338faf724678",
+    "url": "/personal-website/static/media/license.bc8b292b.png"
   },
   {
-    "revision": "3cea36a2225ed2d71858c8b7e28adf8d",
-    "url": "/personal-website/static/media/light.3cea36a2.png"
+    "revision": "3e0d44f2ab971fd3661975667446ce71",
+    "url": "/personal-website/static/media/light.3e0d44f2.png"
   },
   {
     "revision": "7a8d9866d8b00bb3599a478699ab5086",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personal-website/static/media/swiss-train.53519aa5.jpg"
   },
   {
-    "revision": "2e113d5638e5e26ea98fe5319ccb471f",
-    "url": "/personal-website/static/media/tanks.2e113d56.png"
+    "revision": "3d5bb1924381c3b04551227d557e1b06",
+    "url": "/personal-website/static/media/tanks.3d5bb192.png"
   },
   {
     "revision": "c54b70defd37713112c80571486f5473",
