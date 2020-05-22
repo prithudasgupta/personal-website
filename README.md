@@ -1,5 +1,5 @@
-This is my portfolio website written in React. 
-The site is hosted on GitHub pages: https://prithudasgupta.github.io/personal-website/
+This is my portfolio website written in React. <br />
+The site is hosted on GitHub pages: https://prithudasgupta.github.io/personal-website/. <br />
 Feel free to email me with any questions! 
 
 
