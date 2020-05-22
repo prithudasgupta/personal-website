@@ -67,7 +67,7 @@ const CarouselArrow = ({ direction, clickFunction, glyph }) => (
 const ImageSlide = ({ url }) => {
 
     return (
-        <img src={require("../img/" + url)} className="slide"/>
+        <img src={require("../img/" + url)} className="slide" alt=''/>
     )
 
 }
