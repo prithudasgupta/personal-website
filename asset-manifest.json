@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.af2596fc.chunk.css",
+    "main.js": "/personal-website/static/js/main.01b4ccb2.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.01b4ccb2.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.3a9d5e67.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.3a9d5e67.js.map",
+    "static/js/2.be06221c.chunk.js": "/personal-website/static/js/2.be06221c.chunk.js",
+    "static/js/2.be06221c.chunk.js.map": "/personal-website/static/js/2.be06221c.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "precache-manifest.1417cfc64bee6e5db5bc87f685d3ef8b.js": "/personal-website/precache-manifest.1417cfc64bee6e5db5bc87f685d3ef8b.js",
+    "service-worker.js": "/personal-website/service-worker.js",
+    "static/css/main.af2596fc.chunk.css.map": "/personal-website/static/css/main.af2596fc.chunk.css.map",
+    "static/js/2.be06221c.chunk.js.LICENSE.txt": "/personal-website/static/js/2.be06221c.chunk.js.LICENSE.txt",
+    "static/media/boston-harbor.jpg": "/personal-website/static/media/boston-harbor.4552adfa.jpg",
+    "static/media/bu.png": "/personal-website/static/media/bu.fc114c39.png",
+    "static/media/cancun-sunrise.jpg": "/personal-website/static/media/cancun-sunrise.76283ab3.jpg",
+    "static/media/chapel-bridge.jpg": "/personal-website/static/media/chapel-bridge.ebb2764c.jpg",
+    "static/media/effiel.jpg": "/personal-website/static/media/effiel.9991cc99.jpg",
+    "static/media/github.png": "/personal-website/static/media/github.0344dc93.png",
+    "static/media/golden-gate.jpg": "/personal-website/static/media/golden-gate.6fcf0327.jpg",
+    "static/media/google.png": "/personal-website/static/media/google.3d9336ba.png",
+    "static/media/jungfrau.jpg": "/personal-website/static/media/jungfrau.885c69c8.jpg",
+    "static/media/lake-lucerne.jpg": "/personal-website/static/media/lake-lucerne.73c79826.jpg",
+    "static/media/license.png": "/personal-website/static/media/license.64f86a63.png",
+    "static/media/light.png": "/personal-website/static/media/light.3cea36a2.png",
+    "static/media/montreux-sunset.jpg": "/personal-website/static/media/montreux-sunset.7a8d9866.jpg",
+    "static/media/music.png": "/personal-website/static/media/music.c940a56e.png",
+    "static/media/standing-glaciers.jpg": "/personal-website/static/media/standing-glaciers.fd5c1dad.jpg",
+    "static/media/swiss-train.jpg": "/personal-website/static/media/swiss-train.53519aa5.jpg",
+    "static/media/tanks.png": "/personal-website/static/media/tanks.2e113d56.png",
+    "static/media/trevi-fountain.jpg": "/personal-website/static/media/trevi-fountain.c54b70de.jpg",
+    "static/media/venice-cruise.jpg": "/personal-website/static/media/venice-cruise.72e92d86.jpg",
+    "static/media/vienna.jpg": "/personal-website/static/media/vienna.0223e0de.jpg",
+    "static/media/vistaprint.png": "/personal-website/static/media/vistaprint.2cd13376.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a9d5e67.js",
+    "static/js/2.be06221c.chunk.js",
+    "static/css/main.af2596fc.chunk.css",
+    "static/js/main.01b4ccb2.chunk.js"
+  ]
+}
