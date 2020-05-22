@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.3b1a93d4.chunk.css",
+    "main.css": "/personal-website/static/css/main.427f4476.chunk.css",
     "main.js": "/personal-website/static/js/main.9db512db.chunk.js",
     "main.js.map": "/personal-website/static/js/main.9db512db.chunk.js.map",
     "runtime-main.js": "/personal-website/static/js/runtime-main.3a9d5e67.js",
@@ -8,9 +8,9 @@
     "static/js/2.2132c947.chunk.js": "/personal-website/static/js/2.2132c947.chunk.js",
     "static/js/2.2132c947.chunk.js.map": "/personal-website/static/js/2.2132c947.chunk.js.map",
     "index.html": "/personal-website/index.html",
-    "precache-manifest.25fb6028929eea16561ab8e79902dca1.js": "/personal-website/precache-manifest.25fb6028929eea16561ab8e79902dca1.js",
+    "precache-manifest.14899b9420471dc8631c3be0e226ca69.js": "/personal-website/precache-manifest.14899b9420471dc8631c3be0e226ca69.js",
     "service-worker.js": "/personal-website/service-worker.js",
-    "static/css/main.3b1a93d4.chunk.css.map": "/personal-website/static/css/main.3b1a93d4.chunk.css.map",
+    "static/css/main.427f4476.chunk.css.map": "/personal-website/static/css/main.427f4476.chunk.css.map",
     "static/js/2.2132c947.chunk.js.LICENSE.txt": "/personal-website/static/js/2.2132c947.chunk.js.LICENSE.txt",
     "static/media/boston-harbor.jpg": "/personal-website/static/media/boston-harbor.4552adfa.jpg",
     "static/media/bu.png": "/personal-website/static/media/bu.fc114c39.png",
@@ -37,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.3a9d5e67.js",
     "static/js/2.2132c947.chunk.js",
-    "static/css/main.3b1a93d4.chunk.css",
+    "static/css/main.427f4476.chunk.css",
     "static/js/main.9db512db.chunk.js"
   ]
 }
