@@ -52,9 +52,15 @@ export default class School extends Component {
                     <div class="timeline-container timeline-right">
                         <div class="timeline-content">
                         <h2>Fall 2020</h2>
+<<<<<<< HEAD
                         <p><a href="https://cs.brown.edu/courses/cs173/2020/index.html" className="class_links">Programming Languages</a></p>
                         <p><a href="http://cs.brown.edu/courses/csci1010/" className="class_links">Theory of Computation</a></p>
                         <p><a href="https://cs.brown.edu/courses/csci1650/" className="class_links">Software Security and Exploitation</a></p>
+=======
+                        <p><a href="http://cs.brown.edu/courses/csci1730/2020/" className="class_links">Programming Languages</a></p>
+                        <p><a href="http://cs.brown.edu/courses/csci1010/" className="class_links">Theory of Computation</a></p>
+                        <p><a href="http://cs.brown.edu/courses/csci1650/" className="class_links">Software Security and Exploitation</a></p>
+>>>>>>> fall-2020
                         </div>
                     </div>
                     </div>    
