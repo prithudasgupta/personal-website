@@ -8,8 +8,8 @@ export default class Professional extends Component {
             <div className="Professional">
                 <h1>Professional</h1>
                 <h4 class="block-summary"> I have always been an aspiring software engineer and here are some of the amazing experiences I have had in the field! </h4>
-                <ImageRect topic="Facebook: Summer 2020" caption="Because of the COVID-19 Pandemic, my software engineering internship at Facebook for the summer of 2020, which would 
-                    have been hosted in Menlo Park, is now remote." imgurl="professional/facebook.png"></ImageRect>
+                <ImageRect topic="Facebook: Summer 2020" caption="Because of the COVID-19 Pandemic, my internship at Facebook for the summer of 2020, which would 
+                    have been hosted in Menlo Park, was remote. I worked on the Video Ranking Team on a offline evaluation framework for candidate generation." imgurl="professional/facebook.png"></ImageRect>
 
                 <ImageRect topic="Google: Summer 2019" caption="As an Engineering Practicum intern, I worked on the Shasta team within Google Ads in the Sunnyvale, CA
                     office. My team worked on writing a learning algorithm to reduce cache misses when advertisement requests were queried." imgurl="professional/google.png"></ImageRect>
