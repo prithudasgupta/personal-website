@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "859ac140437e83743c17ab82c5aa9bdd",
+    "revision": "85f42b55fd5f802014d8e87ada82c80f",
     "url": "/personal-website/index.html"
   },
   {
-    "revision": "c21fdb6134d35c732803",
-    "url": "/personal-website/static/css/main.c2194217.chunk.css"
+    "revision": "4343b65845329499369f",
+    "url": "/personal-website/static/css/main.f2a2283a.chunk.css"
   },
   {
     "revision": "46911850060e625b7cf3",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personal-website/static/js/2.2132c947.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c21fdb6134d35c732803",
-    "url": "/personal-website/static/js/main.7aef0c9f.chunk.js"
+    "revision": "4343b65845329499369f",
+    "url": "/personal-website/static/js/main.75d81304.chunk.js"
   },
   {
     "revision": "f50455ddb69baf523794",
@@ -72,12 +72,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personal-website/static/media/light.3e0d44f2.png"
   },
   {
+    "revision": "68346af4deae5e056820fa8084ecef04",
+    "url": "/personal-website/static/media/meta.68346af4.png"
+  },
+  {
     "revision": "7a8d9866d8b00bb3599a478699ab5086",
     "url": "/personal-website/static/media/montreux-sunset.7a8d9866.jpg"
   },
   {
     "revision": "c940a56e742502bc8eb7e9a747342c5f",
     "url": "/personal-website/static/media/music.c940a56e.png"
+  },
+  {
+    "revision": "6063078fc05cf443dfe4615b99750592",
+    "url": "/personal-website/static/media/santorini.6063078f.png"
   },
   {
     "revision": "fd5c1dad928726c96a01870e0b32d819",
