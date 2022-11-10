@@ -7,7 +7,7 @@ export default class Professional extends Component {
         return (
             <div className="Professional">
                 <h1>Professional</h1>
-                <h4 class="block-summary"> I have always been an aspiring software engineer and here are some of the amazing experiences I have had in the field! </h4>
+                <h4 class="block-summary"> I have always been an aspiring software engineer and here are some of the experiences I have had in the field! </h4>
                 <ImageRect topic="Meta: Summer 2021 - Present" caption="I have worked as a Software Engineer on the Probability IG Ranking team. Our team tunes several
                 Instagram ranking models and researches techniques to decide the best posts and order in which to show them to the user." imgurl="professional/meta.png"></ImageRect>
 
